@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /merci.html
 
-# Sitemap
 Sitemap: https://acheteravis.fr/sitemap.xml
